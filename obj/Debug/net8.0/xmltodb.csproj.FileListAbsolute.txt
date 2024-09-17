@@ -1,0 +1,14 @@
+C:\Users\artem\OneDrive\Documents\VSCodeProjects\xmltodb\obj\Debug\net8.0\xmltodb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artem\OneDrive\Documents\VSCodeProjects\xmltodb\obj\Debug\net8.0\xmltodb.AssemblyInfoInputs.cache
+C:\Users\artem\OneDrive\Documents\VSCodeProjects\xmltodb\obj\Debug\net8.0\xmltodb.AssemblyInfo.cs
+C:\Users\artem\OneDrive\Documents\VSCodeProjects\xmltodb\obj\Debug\net8.0\xmltodb.csproj.CoreCompileInputs.cache
+C:\Users\artem\OneDrive\Documents\VSCodeProjects\xmltodb\bin\Debug\net8.0\xmltodb.exe
+C:\Users\artem\OneDrive\Documents\VSCodeProjects\xmltodb\bin\Debug\net8.0\xmltodb.deps.json
+C:\Users\artem\OneDrive\Documents\VSCodeProjects\xmltodb\bin\Debug\net8.0\xmltodb.runtimeconfig.json
+C:\Users\artem\OneDrive\Documents\VSCodeProjects\xmltodb\bin\Debug\net8.0\xmltodb.dll
+C:\Users\artem\OneDrive\Documents\VSCodeProjects\xmltodb\bin\Debug\net8.0\xmltodb.pdb
+C:\Users\artem\OneDrive\Documents\VSCodeProjects\xmltodb\obj\Debug\net8.0\xmltodb.dll
+C:\Users\artem\OneDrive\Documents\VSCodeProjects\xmltodb\obj\Debug\net8.0\refint\xmltodb.dll
+C:\Users\artem\OneDrive\Documents\VSCodeProjects\xmltodb\obj\Debug\net8.0\xmltodb.pdb
+C:\Users\artem\OneDrive\Documents\VSCodeProjects\xmltodb\obj\Debug\net8.0\xmltodb.genruntimeconfig.cache
+C:\Users\artem\OneDrive\Documents\VSCodeProjects\xmltodb\obj\Debug\net8.0\ref\xmltodb.dll
