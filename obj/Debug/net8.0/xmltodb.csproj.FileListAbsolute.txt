@@ -32,3 +32,9 @@ C:\Users\LazarevAS\Documents\vsproj\xmltodb\obj\Debug\net8.0\refint\xmltodb.dll
 C:\Users\LazarevAS\Documents\vsproj\xmltodb\obj\Debug\net8.0\xmltodb.pdb
 C:\Users\LazarevAS\Documents\vsproj\xmltodb\obj\Debug\net8.0\xmltodb.genruntimeconfig.cache
 C:\Users\LazarevAS\Documents\vsproj\xmltodb\obj\Debug\net8.0\ref\xmltodb.dll
+C:\Users\artem\OneDrive\Documents\VSCodeProjects\xmltodb\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\artem\OneDrive\Documents\VSCodeProjects\xmltodb\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\artem\OneDrive\Documents\VSCodeProjects\xmltodb\bin\Debug\net8.0\Npgsql.dll
+C:\Users\artem\OneDrive\Documents\VSCodeProjects\xmltodb\obj\Debug\net8.0\xmltodb.csproj.AssemblyReference.cache
+C:\Users\artem\OneDrive\Documents\VSCodeProjects\xmltodb\obj\Debug\net8.0\xmltodb.sourcelink.json
+C:\Users\artem\OneDrive\Documents\VSCodeProjects\xmltodb\obj\Debug\net8.0\xmltodb.csproj.Up2Date

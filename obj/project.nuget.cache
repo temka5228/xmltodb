@@ -1,12 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "Tf9IipkILgc=",
+  "dgSpecHash": "Y4n/CY/lvtg=",
   "success": true,
-  "projectFilePath": "C:\\Users\\LazarevAS\\Documents\\vsproj\\xmltodb\\xmltodb.csproj",
+  "projectFilePath": "C:\\Users\\artem\\OneDrive\\Documents\\VSCodeProjects\\xmltodb\\xmltodb.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\LazarevAS\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
-    "C:\\Users\\LazarevAS\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
-    "C:\\Users\\LazarevAS\\.nuget\\packages\\npgsql\\8.0.4\\npgsql.8.0.4.nupkg.sha512"
+    "C:\\Users\\artem\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\artem\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\artem\\.nuget\\packages\\npgsql\\8.0.4\\npgsql.8.0.4.nupkg.sha512"
   ],
   "logs": []
 }

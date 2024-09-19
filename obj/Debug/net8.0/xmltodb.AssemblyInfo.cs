@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("xmltodb")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c35cd24376b284601ab956736484792bf9191971")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+966c83572225f1b68cff78bf3e6f7b46a379bf09")]
 [assembly: System.Reflection.AssemblyProductAttribute("xmltodb")]
 [assembly: System.Reflection.AssemblyTitleAttribute("xmltodb")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

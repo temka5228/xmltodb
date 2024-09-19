@@ -191,24 +191,27 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\LazarevAS\\.nuget\\packages\\": {}
+    "C:\\Users\\artem\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\LazarevAS\\Documents\\vsproj\\xmltodb\\xmltodb.csproj",
+      "projectUniqueName": "C:\\Users\\artem\\OneDrive\\Documents\\VSCodeProjects\\xmltodb\\xmltodb.csproj",
       "projectName": "xmltodb",
-      "projectPath": "C:\\Users\\LazarevAS\\Documents\\vsproj\\xmltodb\\xmltodb.csproj",
-      "packagesPath": "C:\\Users\\LazarevAS\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\LazarevAS\\Documents\\vsproj\\xmltodb\\obj\\",
+      "projectPath": "C:\\Users\\artem\\OneDrive\\Documents\\VSCodeProjects\\xmltodb\\xmltodb.csproj",
+      "packagesPath": "C:\\Users\\artem\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\artem\\OneDrive\\Documents\\VSCodeProjects\\xmltodb\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\LazarevAS\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\artem\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -253,7 +256,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Users\\LazarevAS\\AppData\\Local\\dotnet_sdk_8.0.401\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
